@@ -14,3 +14,5 @@ You can decide whether to empty the training data and reset and start clean.
     // 
     
 ^ this is where you can change how many games it takes data from before the training starts. I'd say 15+.
+
+Edit: open up console within your window to see the training and prediciting.
