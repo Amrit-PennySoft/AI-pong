@@ -31,3 +31,6 @@ Finally i made a function for training and predictions based on the data it coll
 To improve on this i realise that users would not want to actually play a few hundred, or thousand, pong games before they get to play with an AI. Instead, what i'm thinking of doing is collecting a bunch of data in javascript and outputting it to JSON for a base AI model.
 
 From there, i could load in this data to python, train it in TensorFlow with Python, and then export that model back out to the format TensorFlow.js wants, then load it into the javascript Pong game. Quite a few steps.
+
+
+![GitHub Logo](https://github.com/Amrit-PennySoft/AI-pong/blob/master/AIpong.jpg)
